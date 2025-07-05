@@ -5,6 +5,7 @@ Results:
 • When vibration is detected, the LED and buzzer turn ON, and the LCD displays "Earthquake ALERT"
 • When no vibration is detected, the LED and buzzer remain OFF, and the LCD shows real-time X, Y, Z axis values
 • The system mimics a real-time earthquake detection and alert system, and it performed as expected during Tinkercad simulation
+
 Circuit Simulation:
 
 
